@@ -12,7 +12,7 @@ In this task team is supposed to implement a Line following vehicle in a virtual
 # Task Document
 Refer to the Task_Document.pdf in current directory For understanding The problem statement. 
 
-# Report Documentation
-Refer to the Task_Report_Documentation.pdf in current directory For report submitted by the working team. 
+# Report: 
+The project has been implemented in V-rep simulator. The Lua non threded script has been implemented in the model inorder to control the robot. The Robot will be using proximity sensor instead of IR sensor and visibility of line will be on and visibility of background will be 0 for proximity sensor inorder to mimic the color inversion in V-rap.
 
 
